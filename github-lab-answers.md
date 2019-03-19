@@ -23,3 +23,12 @@ the -- will alow you recover a file
 
 Why might you want to reset your files back to a previous commit?
 You noticed something was wrong right after commiting
+
+What command do you use to create a branch?
+git branch newbranch
+
+What command do you use to use a different branch?
+git checkout
+
+Why would you want to use a branch other than the default master?
+to work on a specific part of a project, before it's ready to be pushed to the master
