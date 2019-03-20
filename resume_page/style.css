@@ -1,0 +1,30 @@
+h1 {
+    text-align: center;
+    font-family: 'Lucida Sans', Verdana, sans-serif;
+}
+
+h3 {
+    text-align: center;
+    color: cornflowerblue;
+}
+
+body {
+    margin: 60px;
+}
+
+.body {
+    max-width: 800px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+img {
+    width: 300px;
+}
+
+ul {
+    margin: 0 auto;
+    padding: 0;
+    list-style-type: square;
+    list-style-position: inside;
+}
